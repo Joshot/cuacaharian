@@ -1,0 +1,21 @@
+{
+"name": "Cuaca Harian",
+"short_name": "Cuaca",
+"description": "Aplikasi cuaca modern untuk melihat cuaca saat ini dan prakiraan 5 hari",
+"start_url": "/",
+"display": "standalone",
+"background_color": "#f5f7fa",
+"theme_color": "#106587",
+"icons": [
+{
+"src": "/icon-192.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "/icon-512.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
